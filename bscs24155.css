@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(216, 168, 77);
+}
+.first-div{
+font-size:large  ;
+color: red;
+width: 500px;
+height: 150px;
+background-color: lightblue;
+border-width: 3px;
+border-color: goldenrod;
+border-radius: 20%;
+margin: 10px    ;
+padding: 5px;
+
+}
+.normal-para{
+    background-color: lightgreen;
+}
+#fav-para{
+    background-color:rgb(222, 16, 222);
+}
