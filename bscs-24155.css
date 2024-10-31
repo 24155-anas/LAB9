@@ -1,3 +1,6 @@
+body{
+    background-color:cadetblue;
+}
 .first-div{
     font-size:large  ;
     color: red;
@@ -10,4 +13,10 @@
     margin: 10px    ;
     padding: 5px;
     
+    }
+.normal-para{
+    background-color: lightgreen;
+    }
+#fav-para{
+    background-color:rgb(222, 16, 222);
     }
